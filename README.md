@@ -9,3 +9,7 @@ Backend ekata Data ganna Connect krnna sadana bridge ekak.
 
 # **AJAX**
 Web page ekak refresh krnne nethuwa web browser through request yawala Response ganna ekak thiyena object ekak..
+
+JS Properties akara dekin thiyannawa.
+1. Data Properties
+2. Access Properties
