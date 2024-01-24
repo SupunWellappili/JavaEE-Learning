@@ -28,6 +28,8 @@ Id = “C001”;
 }
 
 2. Function Base / Constructor Base
+function customer(){ this.id = "c001"};
+customer2;
 
 Prototype base Inheritance kiyanne mechanism akak thiyenawa..
 Prototype akak kiynne object akakin apu akak.
