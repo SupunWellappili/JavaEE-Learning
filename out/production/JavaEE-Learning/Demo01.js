@@ -7,7 +7,7 @@ function Vehicle(model, year) {
 }
 
 function Car(model, year) {
-    Vehicle.apply(this,arguments);
+
 }
 
 var v1 = new Vehicle("Benz", 2020);
@@ -29,8 +29,8 @@ Car.prototype = Object.create(Vehicle.prototype);
 Car.prototype.constructor = Car;
 
 var  c1 = new Car("Audi", 2005);
-var res2 =c1.park();
-console.log(res2);
+var res2 =
+//console.log(Car.prototype);
 
 
 
