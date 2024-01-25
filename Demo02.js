@@ -17,5 +17,7 @@ console.log(rep);
 var c = new Cat("c001", "kitty");
 
 Cat.prototype = Object.create(Animal.prototype);
+Cat.prototype.constructor=Cat;
+
 var rep2 =c.cry();
 console.log(rep2);
