@@ -21,3 +21,6 @@ Cat.prototype.constructor=Cat;
 
 var rep2 =c.cry();
 console.log(rep2);
+
+
+

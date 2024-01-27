@@ -35,7 +35,25 @@ console.log(res2);
 
 
 
+// above code 2015 edition
+/*
 
+class Vehicle{
+    constructor(id,name) {
+        this.id =id;
+        this.name= name;
+    }
+
+
+    park(){
+        return this.name+ " - "+this.id+" is a crying"
+    }
+}
+
+
+var v =new Vehicle("c001", "Benz");
+v.park();
+*/
 
 
 
